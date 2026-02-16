@@ -1,8 +1,8 @@
-# Actividad 5.2 – Compute Sales (Python)
+# Actividad 5.2 – Compute Sales
 
-Este repositorio implementa el programa **`computeSales.py`**, solicitado en la *Actividad 5.2 – Ejercicio de programación 2* (Compute sales). fileciteturn0file0L1-L33
+Este repositorio implementa el programa **`computeSales.py`** para la *Actividad 5.2* (Compute sales). fileciteturn0file0L1-L33
 
-## Requisitos del ejercicio (resumen)
+## Requisitos del ejercicio
 
 - Ejecutar desde línea de comandos y recibir **2 archivos JSON**: catálogo de precios y registro de ventas. fileciteturn0file0L3-L15  
 - Calcular el costo total de todas las ventas e imprimirlo en pantalla y en **`SalesResults.txt`**. fileciteturn0file0L10-L15  
@@ -17,8 +17,8 @@ python computeSales.py data/priceCatalogue.json data/salesRecord.json
 ```
 
 Al finalizar:
-- Verás el reporte en consola.
-- Se creará/actualizará `SalesResults.txt` en el directorio actual.
+- Se despliega el reporte en consola.
+- Se creará o actualizará `SalesResults.txt` en el directorio actual.
 
 ## Formatos JSON soportados (tolerante)
 
