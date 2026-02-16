@@ -1,0 +1,54 @@
+[
+  {
+    "sale_id": 1,
+    "items": [
+      {
+        "product": "apple",
+        "quantity": 2
+      },
+      {
+        "product": "milk",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "sale_id": 2,
+    "items": [
+      {
+        "product": "banana",
+        "quantity": 3
+      },
+      {
+        "product": "bread",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "sale_id": 3,
+    "items": [
+      {
+        "product": "unknown_product",
+        "quantity": 1
+      },
+      {
+        "product": "banana",
+        "quantity": -2
+      }
+    ]
+  },
+  {
+    "sale_id": 4,
+    "items": [
+      {
+        "product": 123,
+        "quantity": 1
+      },
+      {
+        "product": "apple",
+        "quantity": "two"
+      }
+    ]
+  }
+]
