@@ -1,14 +1,14 @@
 # Actividad 5.2 – Compute Sales
 
-Este repositorio implementa el programa **`computeSales.py`** para la *Actividad 5.2* (Compute sales). fileciteturn0file0L1-L33
+Este repositorio implementa el programa **`computeSales.py`** para la *Actividad 5.2* (Compute sales).
 
 ## Requisitos del ejercicio
 
-- Ejecutar desde línea de comandos y recibir **2 archivos JSON**: catálogo de precios y registro de ventas. fileciteturn0file0L3-L15  
-- Calcular el costo total de todas las ventas e imprimirlo en pantalla y en **`SalesResults.txt`**. fileciteturn0file0L10-L15  
-- Manejar datos inválidos: mostrar errores en consola y **continuar** la ejecución. fileciteturn0file0L16-L18  
-- Incluir el **tiempo transcurrido** en consola y en el archivo de resultados. fileciteturn0file0L24-L27  
-- Cumplir PEP-8. fileciteturn0file0L28-L33  
+- Ejecutar desde línea de comandos y recibir **2 archivos JSON**: catálogo de precios y registro de ventas. 
+- Calcular el costo total de todas las ventas e imprimirlo en pantalla y en **`SalesResults.txt`**.
+- Manejar datos inválidos: mostrar errores en consola y **continuar** la ejecución. 
+- Incluir el **tiempo transcurrido** en consola y en el archivo de resultados.
+- Cumplir PEP-8. 
 
 ## Ejecución
 
