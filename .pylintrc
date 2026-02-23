@@ -1,0 +1,10 @@
+[MASTER]
+ignore-patterns=test_.*\.py
+
+[MESSAGES CONTROL]
+disable=
+    too-few-public-methods,
+    duplicate-code
+
+[FORMAT]
+max-line-length=88
