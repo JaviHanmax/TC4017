@@ -1,0 +1,15 @@
+NUMBER CONVERSION RESULTS
+============================================================
+Decimal	Binary	Hexadecimal
+10	1010	A
+15	1111	F
+16	10000	10
+255	11111111	FF
+-8	-1000	-8
+0	0	0
+1024	10000000000	400
+31	11111	1F
+============================================================
+Valid integers: 8
+Invalid tokens ignored: 2
+Elapsed time (seconds): 0.000165

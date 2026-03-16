@@ -1,0 +1,16 @@
+Invalid data at line 4: '###' was ignored.
+Invalid data at line 4: '...' was ignored.
+WORD COUNT RESULTS
+==================================================
+Word	Frequency
+code	1
+data	3
+engineering	1
+hello	2
+python	2
+world	2
+==================================================
+Total words processed: 11
+Distinct words: 6
+Invalid tokens ignored: 2
+Elapsed time (seconds): 0.000162

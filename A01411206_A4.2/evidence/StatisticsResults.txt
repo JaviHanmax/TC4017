@@ -1,0 +1,11 @@
+DESCRIPTIVE STATISTICS
+==================================================
+Valid numbers: 11
+Invalid tokens ignored: 2
+Mean: 51.818182
+Median: 50.000000
+Mode: 20.000000
+Mode frequency: 2
+Variance (population): 851.239669
+Standard deviation (population): 29.176012
+Elapsed time (seconds): 0.000157
